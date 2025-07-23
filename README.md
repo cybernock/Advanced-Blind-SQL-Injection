@@ -259,5 +259,3 @@ This tool was developed to assist security professionals in identifying and addr
 By using this tool, you acknowledge that you understand these restrictions and agree to use it responsibly and ethically.
 
 *For questions, issues, or feature requests, please open an issue on the [GitHub repository](https://github.com/cybernock/Advanced-Blind-SQL-Injection/issues).*
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/15888274/2670b18c-4236-4d0a-a909-506f2c36cd50/urls.txt
